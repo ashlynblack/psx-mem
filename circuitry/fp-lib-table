@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PSX_MEM")(type "KiCad")(uri "${KIPRJMOD}/footprints/psx-mem.pretty")(options "")(descr ""))
+)
