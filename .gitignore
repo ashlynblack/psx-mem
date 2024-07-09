@@ -1,0 +1,9 @@
+# Admin Documents
+admin/**
+
+# Lock Files
+~*.lck
+
+# KiCAD Backups
+circuitry/*-backups/**
+circuitry/*.bak
