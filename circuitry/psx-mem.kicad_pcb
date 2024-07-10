@@ -345,7 +345,7 @@
 		(path "/e3640b39-d692-4ed5-a2d9-37158bb0fc51")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -983,7 +983,7 @@
 		(path "/8136bb52-be7a-41ef-b653-b234c6021dce")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -1082,7 +1082,7 @@
 		(path "/72d30119-6b9f-431c-97c1-61b6c8d33520")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -1181,7 +1181,7 @@
 		(path "/b15f7012-b971-4830-afd9-c2a11fdb1d75")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -1280,7 +1280,7 @@
 		(path "/0f4b260f-196a-44fd-a247-0032cbb47d86")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -1490,7 +1490,7 @@
 		(path "/618a33ef-82d9-474c-a209-ae477828333c")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -1589,7 +1589,7 @@
 		(path "/f006facb-d1f5-4f48-b785-fd2879490e35")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -3145,7 +3145,7 @@
 		(path "/0de79d99-90ba-48cb-af26-6512d9566e7f")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -3244,7 +3244,7 @@
 		(path "/a598655c-b49a-4c42-819d-2b24d4a1ac97")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -3343,7 +3343,7 @@
 		(path "/bcae1ffb-d00e-44ec-8e14-07aca7cb3d6c")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -3802,7 +3802,7 @@
 		(path "/18d894ec-3c0a-4138-bdbb-aacdbffd6a00")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
@@ -4115,7 +4115,7 @@
 		(path "/959fa6ef-218b-4882-b16b-83c99c2db44e")
 		(sheetname "Root")
 		(sheetfile "psx-mem.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 1 1)
