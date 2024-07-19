@@ -444,7 +444,8 @@
       "PSX_MEM"
     ],
     "pinned_symbol_libs": [
-      "PSX-MEM"
+      "PSX-MEM",
+      "PSX_Memory"
     ]
   },
   "meta": {
