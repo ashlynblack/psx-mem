@@ -1,10 +1,73 @@
 ** Drc report for psx-mem.kicad_pcb **
-** Created on 2024-07-09T20:26:41+1000 **
+** Created on 2024-07-24T04:09:38+1000 **
 
-** Found 0 DRC violations **
+** Found 13 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.1900 mm, 103.2500 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.1900 mm, 103.2500 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(157.3100 mm, 103.2500 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(157.3100 mm, 103.2500 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(159.0040 mm, 108.7500 mm): Reference 'U1'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.6850 mm, 103.2500 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.6850 mm, 103.2500 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.1860 mm, 101.7300 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(143.4440 mm, 107.2260 mm): Segment on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.0640 mm, 107.2260 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1100 mm)
+    Rule: Pad to Silkscreen; warning
+    @(160.7600 mm, 100.2000 mm): Polygon on F.Silkscreen
+    @(162.1000 mm, 100.6000 mm): Pad 1 [VDD] of LS1 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1091 mm)
+    Rule: Pad to Silkscreen; warning
+    @(167.2800 mm, 99.6860 mm): Segment on F.Silkscreen
+    @(168.1250 mm, 100.8750 mm): Pad [<no net>] of LS1 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1235 mm)
+    Rule: Pad to Silkscreen; warning
+    @(157.7400 mm, 107.3000 mm): Polygon on F.Silkscreen
+    @(156.5910 mm, 108.0300 mm): Pad 2 [Net-(Q2-B)] of R1 on F.Cu
 
 ** Found 0 unconnected pads **
 
-** Found 0 Footprint errors **
+** Found 7 Footprint errors **
+[net_conflict]: Pad net (/CMD) doesn't match net given by schematic (VDD).
+    Local override; warning
+    @(146.9500 mm, 96.8000 mm): Pad 1 [/CMD] of TP2 on F.Cu
+[net_conflict]: Pad net (+7.5V) doesn't match net given by schematic (/CLK).
+    Local override; warning
+    @(152.6500 mm, 96.8000 mm): Pad 1 [+7.5V] of TP3 on F.Cu
+[net_conflict]: Pad net (GND) doesn't match net given by schematic (/CMD).
+    Local override; warning
+    @(154.9500 mm, 96.7500 mm): Pad 1 [GND] of TP4 on F.Cu
+[net_conflict]: Pad net (VDD) doesn't match net given by schematic (/~{ATT}).
+    Local override; warning
+    @(157.2500 mm, 96.7500 mm): Pad 1 [VDD] of TP5 on F.Cu
+[net_conflict]: Pad net (/~{ATT}) doesn't match net given by schematic (/~{ACK}).
+    Local override; warning
+    @(162.9500 mm, 96.8000 mm): Pad 1 [/~{ATT}] of TP6 on F.Cu
+[net_conflict]: Pad net (/CLK) doesn't match net given by schematic (+7.5V).
+    Local override; warning
+    @(165.2500 mm, 96.8000 mm): Pad 1 [/CLK] of TP7 on F.Cu
+[net_conflict]: Pad net (/~{ACK}) doesn't match net given by schematic (/~{CS}).
+    Local override; warning
+    @(167.5500 mm, 96.8000 mm): Pad 1 [/~{ACK}] of TP8 on F.Cu
 
 ** End of Report **
